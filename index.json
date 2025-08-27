@@ -1,0 +1,14 @@
+{
+  "title": "Meu Servidor Sonolus",
+  "subtitle": "Charts Project Sekai",
+  "levels": {
+    "items": [
+      {
+        "name": "yaminabe",
+        "version": 1,
+        "title": "YAMINABE!!!!!",
+        "data": "levels/yaminabe/yaminabe.json"
+      }
+    ]
+  }
+}
